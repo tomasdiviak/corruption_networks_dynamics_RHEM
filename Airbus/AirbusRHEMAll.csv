@@ -1,0 +1,168 @@
+"","source","target","order","type","weight"
+"1","AirAsia Executive 1","AirAsia Executive 1","0","add.actor",1
+"2","Airbus employee 1 [senior]","Airbus employee 1 [senior]","0","add.actor",1
+"3","Airbus employee 10","Airbus employee 10","0","add.actor",1
+"4","Airbus employee 11","Airbus employee 11","0","add.actor",1
+"5","Airbus employee 12","Airbus employee 12","0","add.actor",1
+"6","Airbus employee 13","Airbus employee 13","0","add.actor",1
+"7","Airbus employee 14","Airbus employee 14","0","add.actor",1
+"8","Airbus employee 15 [senior]","Airbus employee 15 [senior]","0","add.actor",1
+"9","Airbus employee 16","Airbus employee 16","0","add.actor",1
+"10","Airbus employee 17 [senior]","Airbus employee 17 [senior]","0","add.actor",1
+"11","Airbus employee 18","Airbus employee 18","0","add.actor",1
+"12","Airbus employee 19","Airbus employee 19","0","add.actor",1
+"13","Airbus employee 2 [senior]","Airbus employee 2 [senior]","0","add.actor",1
+"14","Airbus employee 20","Airbus employee 20","0","add.actor",1
+"15","Airbus employee 21 [senior]","Airbus employee 21 [senior]","0","add.actor",1
+"16","Airbus employee 22 [senior]","Airbus employee 22 [senior]","0","add.actor",1
+"17","Airbus employee 4 [very senior]","Airbus employee 4 [very senior]","0","add.actor",1
+"18","Airbus employee 5 [very senior]","Airbus employee 5 [very senior]","0","add.actor",1
+"19","Airbus employee 6 [very senior]","Airbus employee 6 [very senior]","0","add.actor",1
+"20","Airbus employee 8 [senior]","Airbus employee 8 [senior]","0","add.actor",1
+"21","Garuda Executive 1","Garuda Executive 1","0","add.actor",1
+"22","Garuda Executive 2","Garuda Executive 2","0","add.actor",1
+"23","Garuda Executive 3","Garuda Executive 3","0","add.actor",1
+"24","Government Official 1","Government Official 1","0","add.actor",1
+"25","Intermediary 2","Intermediary 2","0","add.actor",1
+"26","Intermediary 4","Intermediary 4","0","add.actor",1
+"27","Intermediary 5","Intermediary 5","0","add.actor",1
+"28","Intermediary 6","Intermediary 6","0","add.actor",1
+"29","Intermediary 7","Intermediary 7","0","add.actor",1
+"30","Minister of Defence","Minister of Defence","0","add.actor",1
+"31","Minister of Finance","Minister of Finance","0","add.actor",1
+"32","SMO International employee","SMO International employee","0","add.actor",1
+"33","UKEF employee","UKEF employee","0","add.actor",1
+"34","TNA Parent Executive 3","TNA Parent Executive 3","0","add.actor",1
+"35","SLA Executive 1","SLA Executive 1","0","add.actor",1
+"36","Airbus employee 9 [senior]","Airbus employee 9 [senior]","0","add.actor",1
+"37","AirAsia Executive 1","AirAsia Executive 1","0","AB",0
+"38","Airbus employee 1 [senior]","Airbus employee 1 [senior]","0","AB",1
+"39","Airbus employee 10","Airbus employee 10","0","AB",1
+"40","Airbus employee 11","Airbus employee 11","0","AB",1
+"41","Airbus employee 12","Airbus employee 12","0","AB",1
+"42","Airbus employee 13","Airbus employee 13","0","AB",1
+"43","Airbus employee 14","Airbus employee 14","0","AB",1
+"44","Airbus employee 15 [senior]","Airbus employee 15 [senior]","0","AB",1
+"45","Airbus employee 16","Airbus employee 16","0","AB",1
+"46","Airbus employee 17 [senior]","Airbus employee 17 [senior]","0","AB",1
+"47","Airbus employee 18","Airbus employee 18","0","AB",1
+"48","Airbus employee 19","Airbus employee 19","0","AB",1
+"49","Airbus employee 2 [senior]","Airbus employee 2 [senior]","0","AB",1
+"50","Airbus employee 20","Airbus employee 20","0","AB",1
+"51","Airbus employee 21 [senior]","Airbus employee 21 [senior]","0","AB",1
+"52","Airbus employee 22 [senior]","Airbus employee 22 [senior]","0","AB",1
+"53","Airbus employee 4 [very senior]","Airbus employee 4 [very senior]","0","AB",1
+"54","Airbus employee 5 [very senior]","Airbus employee 5 [very senior]","0","AB",1
+"55","Airbus employee 6 [very senior]","Airbus employee 6 [very senior]","0","AB",1
+"56","Airbus employee 8 [senior]","Airbus employee 8 [senior]","0","AB",1
+"57","Garuda Executive 1","Garuda Executive 1","0","AB",0
+"58","Garuda Executive 2","Garuda Executive 2","0","AB",0
+"59","Garuda Executive 3","Garuda Executive 3","0","AB",0
+"60","Government Official 1","Government Official 1","0","AB",0
+"61","Intermediary 2","Intermediary 2","0","AB",1
+"62","Intermediary 4","Intermediary 4","0","AB",1
+"63","Intermediary 5","Intermediary 5","0","AB",1
+"64","Intermediary 6","Intermediary 6","0","AB",1
+"65","Intermediary 7","Intermediary 7","0","AB",1
+"66","Minister of Defence","Minister of Defence","0","AB",0
+"67","Minister of Finance","Minister of Finance","0","AB",0
+"68","SMO International employee","SMO International employee","0","AB",0
+"69","UKEF employee","UKEF employee","0","AB",0
+"70","TNA Parent Executive 3","TNA Parent Executive 3","0","AB",0
+"71","SLA Executive 1","SLA Executive 1","0","AB",0
+"72","Airbus employee 9 [senior]","Airbus employee 9 [senior]","0","AB",1
+"73","Intermediary 4","Airbus employee 14","1","email",1
+"74","Intermediary 4","Airbus employee 1 [senior]","1","email",1
+"75","Airbus employee 15 [senior]","Government Official 1","2","email",1
+"76","Airbus employee 15 [senior]","Airbus employee 16","3","email",1
+"77","Airbus employee 1 [senior]","AirAsia Executive 1","4","email",1
+"78","AirAsia Executive 1","Airbus employee 1 [senior]","5","email",1
+"79","AirAsia Executive 1","Airbus employee 2 [senior]","6","email",1
+"80","Airbus employee 1 [senior]","Airbus employee 2 [senior]","7","email",1
+"81","Airbus employee 16","Intermediary 5","8","email",1
+"82","Airbus employee 16","Intermediary 6","8","email",1
+"83","Airbus employee 2 [senior]","AirAsia Executive 1","10","email",1
+"84","Airbus employee 2 [senior]","Airbus employee 1 [senior]","11","email",1
+"85","Airbus employee 2 [senior]","Airbus employee 1 [senior]","12","email",1
+"86","Airbus employee 1 [senior]","Airbus employee 2 [senior]","12","email",1
+"87","Intermediary 6","Airbus employee 16","13","email",1
+"88","Airbus employee 2 [senior]","Airbus employee 1 [senior]","14","email",1
+"89","Intermediary 6","Airbus employee 15 [senior]","15","email",1
+"90","Airbus employee 18","Airbus employee 15 [senior]","16","email",1
+"91","Airbus employee 18","Airbus employee 17 [senior]","16","email",1
+"92","Airbus employee 18","Airbus employee 20","16","email",1
+"93","Airbus employee 18","Airbus employee 19","16","email",1
+"94","Airbus employee 15 [senior]","Airbus employee 18","17","email",1
+"95","Airbus employee 15 [senior]","Airbus employee 17 [senior]","17","email",1
+"96","Airbus employee 15 [senior]","Airbus employee 20","17","email",1
+"97","Airbus employee 15 [senior]","Airbus employee 19","17","email",1
+"98","Airbus employee 16","Airbus employee 15 [senior]","18","email",1
+"99","Airbus employee 16","Airbus employee 17 [senior]","18","email",1
+"100","Airbus employee 16","Airbus employee 21 [senior]","18","email",1
+"101","Airbus employee 15 [senior]","Airbus employee 16","19","email",1
+"102","Airbus employee 15 [senior]","Airbus employee 17 [senior]","19","email",1
+"103","Airbus employee 15 [senior]","Airbus employee 20","19","email",1
+"104","Airbus employee 15 [senior]","Airbus employee 20","19","email",1
+"105","Airbus employee 15 [senior]","Airbus employee 16","19","email",1
+"106","Airbus employee 15 [senior]","Airbus employee 17 [senior]","19","email",1
+"107","Airbus employee 15 [senior]","Airbus employee 20","19","email",1
+"108","Airbus employee 15 [senior]","Airbus employee 20","19","email",1
+"109","Intermediary 2","Airbus employee 1 [senior]","20","email",1
+"110","Airbus employee 16","Airbus employee 19","21","email",1
+"111","Garuda Executive 3","Intermediary 4","22","email",1
+"112","Intermediary 6","Airbus employee 15 [senior]","23","email",1
+"113","Intermediary 6","Airbus employee 16","23","email",1
+"114","Intermediary 5","Airbus employee 16","24","email",1
+"115","Intermediary 2","Airbus employee 1 [senior]","25","email",1
+"116","Airbus employee 2 [senior]","Airbus employee 1 [senior]","26","email",1
+"117","Airbus employee 2 [senior]","Airbus employee 4 [very senior]","26","email",1
+"118","Airbus employee 2 [senior]","Airbus employee 5 [very senior]","26","email",1
+"119","Airbus employee 2 [senior]","Airbus employee 6 [very senior]","26","email",1
+"120","Airbus employee 2 [senior]","AirAsia Executive 1","27","email",1
+"121","Intermediary 2","Airbus employee 13","28","email",1
+"122","Intermediary 2","Airbus employee 13","29","email",1
+"123","Intermediary 2","Airbus employee 13","30","email",1
+"124","Garuda Executive 1","Garuda Executive 2","31","email",1
+"125","Garuda Executive 1","Intermediary 4","31","email",1
+"126","Garuda Executive 2","Intermediary 4","31","email",1
+"127","Airbus employee 6 [very senior]","AirAsia Executive 1","31","email",1
+"128","AirAsia Executive 1","Airbus employee 6 [very senior]","32","email",1
+"129","Airbus employee 6 [very senior]","Airbus employee 5 [very senior]","33","email",1
+"130","Airbus employee 6 [very senior]","Airbus employee 4 [very senior]","33","email",1
+"131","Airbus employee 6 [very senior]","Airbus employee 2 [senior]","33","email",1
+"132","Airbus employee 2 [senior]","Airbus employee 6 [very senior]","34","email",1
+"133","Airbus employee 2 [senior]","Airbus employee 5 [very senior]","34","email",1
+"134","Airbus employee 2 [senior]","Airbus employee 4 [very senior]","34","email",1
+"135","Airbus employee 2 [senior]","Airbus employee 1 [senior]","35","email",1
+"136","Airbus employee 2 [senior]","SMO International employee","35","email",1
+"137","Airbus employee 16","Intermediary 5","36","email",1
+"138","Airbus employee 2 [senior]","Airbus employee 1 [senior]","37","email",1
+"139","Intermediary 5","Airbus employee 16","38","email",1
+"140","Airbus employee 2 [senior]","Airbus employee 4 [very senior]","39","email",1
+"141","Airbus employee 2 [senior]","Airbus employee 6 [very senior]","39","email",1
+"142","Airbus employee 2 [senior]","Airbus employee 1 [senior]","39","email",1
+"143","Airbus employee 16","Intermediary 5","40","email",1
+"144","Intermediary 5","Airbus employee 16","41","email",1
+"145","Airbus employee 16","Intermediary 5","42","email",1
+"146","Airbus employee 21 [senior]","Airbus employee 1 [senior]","43","email",1
+"147","Airbus employee 21 [senior]","Airbus employee 22 [senior]","43","email",1
+"148","Airbus employee 15 [senior]","Airbus employee 22 [senior]","43","email",1
+"149","Airbus employee 15 [senior]","Airbus employee 1 [senior]","43","email",1
+"150","Airbus employee 16","Government Official 1","44","email",1
+"151","Airbus employee 16","Intermediary 5","44","email",1
+"152","AirAsia Executive 1","Airbus employee 2 [senior]","45","email",1
+"153","Airbus employee 2 [senior]","AirAsia Executive 1","45","email",1
+"154","Airbus employee 16","Government Official 1","46","email",1
+"155","Airbus employee 16","Intermediary 5","46","email",1
+"156","Intermediary 5","Airbus employee 16","47","email",1
+"157","AirAsia Executive 1","Airbus employee 2 [senior]","48","email",1
+"158","Airbus employee 2 [senior]","AirAsia Executive 1","49","email",1
+"159","Airbus employee 2 [senior]","AirAsia Executive 1","50","email",1
+"160","Airbus employee 10","UKEF employee","51","email",1
+"161","Airbus employee 10","Airbus employee 11","51","email",1
+"162","Airbus employee 10","Airbus employee 12","52","email",1
+"163","Airbus employee 12","Airbus employee 10","53","email",1
+"164","UKEF employee","Airbus employee 8 [senior]","54","email",1
+"165","UKEF employee","Airbus employee 10","54","email",1
+"166","Airbus employee 10","Airbus employee 12","55","email",1
+"167","Airbus employee 10","Airbus employee 4 [very senior]","55","email",1
