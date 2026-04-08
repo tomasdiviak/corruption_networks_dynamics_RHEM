@@ -1,5 +1,5 @@
 # **Understanding the Mechanisms that Drive Relational Events Dynamics and Structure in Corruption Networks** 
- Code used for data processing, description, and RHEM modelling in Diviák, T. & J. Lerner. Understanding the Mechanisms that Drive Relational Events Dynamics and Structure in Corruption Networks. *Journal of Quantitative Criminology* DETAILS TBD (2025). [DOI TBD](DOI TBD)
+ Code used for data processing, description, and RHEM modelling in Diviák, T. & J. Lerner. (2025). Understanding the Mechanisms that Drive Relational Events Dynamics and Structure in Corruption Networks. *Journal of Quantitative Criminology*. [https://doi.org/10.1007/s10940-025-09605-x]
 
 **SarcladDescriptives.R**, **AirbusDescriptives.R**, **ASLDescriptives.R**: descriptive analysis of a network focusing on its structure, visualisation, and analysing the frequency of events over time. Note that the core-periphery results reported in the study are based on the corresponding routine in UCINET rather than on the attached code due to its R version (xUCINET) not fully supporting it at the time of writing. The analysed datasets are based on the data coded from the corresponding Statement of Facts and they are stored in two sheets ('edgelist' and 'attributes') in each of *Sarclad_relEvents.xlsx*, *Airbus_relEvents.xlsx*, and *ASL_relEvents.xlsx*.
 
